@@ -2,7 +2,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f5f4faa0;
+    background-color: #faf5f400;
 }
 .hero {
     text-align: center;
@@ -54,4 +54,8 @@ a {
 }
 a:hover {
     text-decoration: underline;
+}
+.ll{
+    color: #050101;
+    margin-left: 90%;
 }
